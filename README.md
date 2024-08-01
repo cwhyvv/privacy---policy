@@ -12,7 +12,6 @@ This Privacy Policy outlines how personal information is collected, used, and pr
 
 When you register through Facebook, Google, or Apple on the DropiKy application, we collect the following information:
 
-Android ID: To prevent multiple free trial periods on the same Android device, an Android ID will be collected.
 Full Name: To verify your identity and provide personalized services.
 Email Address: For account management and communication purposes.
 
