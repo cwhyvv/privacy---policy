@@ -57,7 +57,6 @@ Bu Gizlilik Politikası, DropiKy uygulamasında kişisel bilgilerin nasıl topla
 
 Facebook, Google veya Apple üzerinden DropiKy uygulamasına kaydolduğunuzda, aşağıdaki bilgileri topluyoruz:
 
-Android ID: Aynı Android cihazda birden fazla ücretsiz deneme süresi önlemek amacıyla bir Android ID toplanacaktır.
 Tam Ad: Kimliğinizi doğrulamak ve kişiselleştirilmiş hizmetler sunmak için.
 E-posta Adresi: Hesap yönetimi ve iletişim amaçları için.
 
