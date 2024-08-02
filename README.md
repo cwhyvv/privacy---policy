@@ -87,4 +87,4 @@ Kullanıcılar, topladığımız kişisel verilere erişme, düzeltme veya silme
 
 Bu Gizlilik Politikası ile ilgili herhangi bir soru veya talep için bizimle iletişime geçebilirsiniz:
 
-E-posta: support@dropiky.com
+web: dropiky.com
