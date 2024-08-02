@@ -42,7 +42,7 @@ Users have the right to access, correct, or delete the personal data we collect.
 
 For any questions or requests regarding this Privacy Policy, you can contact us at:
 
-Email: support@dropiky.com
+web: dropiky.co
 
 
 TURKISH
@@ -87,4 +87,4 @@ Kullanıcılar, topladığımız kişisel verilere erişme, düzeltme veya silme
 
 Bu Gizlilik Politikası ile ilgili herhangi bir soru veya talep için bizimle iletişime geçebilirsiniz:
 
-web: dropiky.com
+web: dropiky.co
